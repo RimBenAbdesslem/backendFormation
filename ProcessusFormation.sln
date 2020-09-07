@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessusFormation", "ProcessusFormation\ProcessusFormation.csproj", "{19804140-D889-4269-BB62-3E13E933CDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19804140-D889-4269-BB62-3E13E933CDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19804140-D889-4269-BB62-3E13E933CDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19804140-D889-4269-BB62-3E13E933CDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19804140-D889-4269-BB62-3E13E933CDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFE00EB-9FDC-486E-B103-F72E5EE6EEDF}
+	EndGlobalSection
+EndGlobal
